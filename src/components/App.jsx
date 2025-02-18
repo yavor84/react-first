@@ -1,4 +1,4 @@
-import FavBooks from "./favBooks";
+import FavBooks from "./FavBooks";
 import BookList from "./BookList";
 
 const App = () => {
